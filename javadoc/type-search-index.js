@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"it.bistocchi.skateboard","l":"AssemblyThread"},{"p":"it.bistocchi.skateboard","l":"Main"},{"p":"it.bistocchi.skateboard","l":"ProductionManager"},{"p":"it.bistocchi.skateboard","l":"ShapingThread"},{"p":"it.bistocchi.skateboard","l":"Skateboard"}];updateSearchResults();
